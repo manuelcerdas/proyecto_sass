@@ -1,0 +1,16 @@
+Cambiar los estilos de css a scss.  Cuando entreguen el proyecto tienen que entregar los archivos .scss y el css
+Quitar el subrayado a los enlaces del encabezado
+Los links del aside, del header y del footer tienen que ponerse en bold con el hover
+Descargar y utilizar el font "Raleway" para el texto del artículo
+Descargar y utilizar el font "Luxurious Roman" para el header y el footer
+
+EN TELEFONO (ancho de 400 px o menos)
+    El aside tiene que desaparecer
+    El font de los enlaces del nave del header tiene que quedar en 32px;
+    Usar la imagen phone.png como referencia
+
+EN TABLET (ancho entre 800 y 1023px)
+    Usar la imagen tablet.png como referencia
+
+IMPRESION
+    Usar print.pdf como referencia    
